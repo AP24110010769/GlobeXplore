@@ -1,40 +1,62 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+GlobeXplore - Your Gateway to the World
 
-## Getting Started
+Responsive Landing Page built with Next.js, Tailwind CSS, and Vercel v0
 
-First, run the development server:
 
-```bash
+Project Overview
+
+GlobeXplore is a fully responsive landing page for a travel platform, showcasing its services, features, customer testimonials, and pricing packages. It was built as part of a frontend assignment to demonstrate modern UI development skills.
+
+
+Project Links
+
+Live Deployment (Vercel): https://globe-xplore.vercel.app/
+
+GitHub Repository: https://github.com/AP24110010769/GlobeXplore
+
+Vercel v0 Usage Notes
+
+Hero Section: Generated with Vercel v0 for quick layout setup and styled using Tailwind CSS.
+
+Features Section: Cards created in Vercel v0 and customized for design consistency.
+
+Testimonials Section: Scaffolded using Vercel v0 and styled responsively.
+
+Pricing Section: Base component built with Vercel v0 and extended for three package options.
+
+Footer: Layout generated with Vercel v0 and updated with branding and links.
+
+Tailwind CSS used throughout for spacing, fonts, responsiveness, and hover effects.
+
+All components maintain mobile-first responsive design.
+
+Setup Instructions (Local Development)
+
+Clone the repository:
+
+git clone https://github.com/AP24110010769/GlobeXplore
+
+
+Navigate to the project folder:
+
+cd GlobeXplore
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open your browser and go to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
 
-## Learn More
+Author
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# GlobeXplore
->>>>>>> 85c050787673301a075cd6bc68f9258fd8542ae7
+Banavathu Ramkumar
+B.Tech Student / Frontend Developer
